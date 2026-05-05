@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen Lock</string>
+    <string name="btn_start">Start Lock Service</string>
+    <string name="btn_stop">Stop Service</string>
+    <string name="status_charging">🔌 চার্জে আছেন — Lock চালু হবে!</string>
+    <string name="status_not_charging">🔋 চার্জে নেই — চার্জ দিলে Auto Lock হবে</string>
+</resources>
